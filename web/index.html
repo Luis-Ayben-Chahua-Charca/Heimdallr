@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="dark">
+  <meta name="referrer" content="no-referrer">
+  <title>Heimdallr</title>
+  <link rel="icon" href="data:,">
+  <!-- Sin dependencias externas: ni fuentes remotas ni CDN. -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="saltar" href="#tablero">Saltar al tablero</a>
+
+  <!-- Cabecera: título, avisos, filtros y avance -->
+  <header class="cabecera" id="cabecera">
+    <div class="cabecera-fila">
+      <div class="titulo-area">
+        <h1 id="tituloProyecto">Heimdallr</h1>
+        <p class="subtitulo">
+          <span id="fuenteProyecto"></span>
+          <span id="fechaDatos" class="fecha-datos"></span>
+        </p>
+      </div>
+      <div class="acciones">
+        <button id="btnAvisos" class="boton boton-avisos" type="button" aria-haspopup="dialog" aria-label="Ver avisos de los datos">Avisos</button>
+        <button id="btnConexiones" class="boton boton-conexiones" type="button" aria-pressed="false" aria-label="Mostrar conexiones globales">Mostrar conexiones globales</button>
+      </div>
+    </div>
+
+    <div id="barraControles" class="barra-controles" role="search" aria-label="Buscar y filtrar tarjetas">
+      <div class="buscador">
+        <span class="buscador-icono" aria-hidden="true">⌕</span>
+        <input type="search" id="buscador" placeholder="Buscar por número, título o asignado" aria-label="Buscar por número, título o asignado" autocomplete="off" spellcheck="false">
+      </div>
+      <select id="filtroCategoria" class="filtro" aria-label="Filtrar por categoría"></select>
+      <select id="filtroRol" class="filtro" aria-label="Filtrar por rol"></select>
+      <select id="filtroAsignado" class="filtro" aria-label="Filtrar por asignado"></select>
+      <select id="filtroEstado" class="filtro" aria-label="Filtrar por estado"></select>
+      <label class="casilla"><input type="checkbox" id="filtroBloqueadas" aria-label="Solo bloqueadas"> Solo bloqueadas</label>
+      <label class="casilla"><input type="checkbox" id="filtroListas" aria-label="Solo listas para tomar"> Solo listas</label>
+      <label class="casilla"><input type="checkbox" id="filtroAntiguos" aria-label="Incluir sprints anteriores"> Incluir sprints anteriores</label>
+      <button id="btnLimpiar" class="boton boton-secundario" type="button" aria-label="Quitar todos los filtros y la búsqueda">Limpiar filtros</button>
+    </div>
+
+    <div id="barraAvance" class="barra-avance">
+      <div class="avance-bloque">
+        <span class="avance-etiqueta" id="etqAvanceIssues">Issues terminados</span>
+        <div class="avance-fondo" role="progressbar" id="avanceIssues" aria-labelledby="etqAvanceIssues" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div class="avance-relleno" id="avanceIssuesRelleno"></div>
+        </div>
+        <span class="avance-texto" id="avanceIssuesTexto">—</span>
+      </div>
+      <div class="avance-bloque">
+        <span class="avance-etiqueta" id="etqAvanceDias">Días terminados</span>
+        <div class="avance-fondo" role="progressbar" id="avanceDias" aria-labelledby="etqAvanceDias" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div class="avance-relleno avance-relleno-dias" id="avanceDiasRelleno"></div>
+        </div>
+        <span class="avance-texto" id="avanceDiasTexto">—</span>
+      </div>
+      <span class="contador-visibles" id="contadorVisibles" aria-live="polite"></span>
+      <span class="ayuda-interaccion">Cursor o foco: resalta dependencias · Clic: fija el resaltado · Segundo clic o Enter: detalle</span>
+    </div>
+  </header>
+
+  <!-- Tablero: columnas por sprint y capa SVG de conexiones -->
+  <!-- Anuncios para lectores de pantalla (p. ej. al activar un filtro automáticamente) -->
+  <div id="anuncio" class="solo-lector" aria-live="polite"></div>
+
+  <main id="tablero" class="tablero" tabindex="-1" aria-label="Tablero por sprints">
+    <div id="mensajeTablero" class="mensaje-tablero" role="status" hidden></div>
+    <div id="lienzo" class="lienzo">
+      <svg id="svgConexiones" class="svg-conexiones" aria-hidden="true" focusable="false">
+        <defs>
+          <marker id="flecha-pred" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#38bdf8"></path>
+          </marker>
+          <marker id="flecha-suc" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="#f472b6"></path>
+          </marker>
+          <marker id="flecha-global" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+            <path d="M 0 0 L 10 5 L 0 10 z" fill="rgba(226,232,240,0.45)"></path>
+          </marker>
+        </defs>
+        <g id="grupoLineas"></g>
+      </svg>
+      <div id="rejilla" class="rejilla"></div>
+    </div>
+  </main>
+
+  <!-- Pie: leyenda de categorías y de estados -->
+  <footer id="pie" class="pie">
+    <div id="leyendaCategorias" class="leyenda" role="group" aria-label="Leyenda de categorías (clic para filtrar)"></div>
+    <div class="leyenda leyenda-estados" aria-label="Leyenda de estados y conexiones">
+      <span class="leyenda-estado"><span class="muestra muestra-todo" aria-hidden="true"></span>Por hacer</span>
+      <span class="leyenda-estado"><span class="muestra muestra-curso" aria-hidden="true"></span>En curso</span>
+      <span class="leyenda-estado"><span class="muestra muestra-hecha" aria-hidden="true"></span>Terminada</span>
+      <span class="leyenda-estado"><span class="muestra muestra-fuera" aria-hidden="true"></span>Fuera del tablero</span>
+      <span class="leyenda-estado"><span class="linea-muestra linea-muestra-pred" aria-hidden="true"></span>Depende de</span>
+      <span class="leyenda-estado"><span class="linea-muestra linea-muestra-suc" aria-hidden="true"></span>Desbloquea</span>
+      <span class="leyenda-estado"><span class="linea-muestra linea-muestra-inversa" aria-hidden="true"></span>Dependencia en un sprint posterior</span>
+      <span class="leyenda-estado"><span class="linea-muestra linea-muestra-ciclo" aria-hidden="true"></span>Cierra un ciclo (vista desplegada)</span>
+    </div>
+  </footer>
+
+  <!-- Modal de detalle de una tarjeta -->
+  <div id="modalDetalle" class="modal-fondo" hidden>
+    <div class="modal-tarjeta" role="dialog" aria-modal="true" aria-labelledby="detalleTitulo">
+      <button type="button" class="modal-cerrar" data-cerrar aria-label="Cerrar detalle">&times;</button>
+      <div id="detalleContenido"></div>
+    </div>
+  </div>
+
+  <!-- Modal con la lista de avisos -->
+  <div id="modalAvisos" class="modal-fondo" hidden>
+    <div class="modal-tarjeta" role="dialog" aria-modal="true" aria-labelledby="avisosTitulo">
+      <button type="button" class="modal-cerrar" data-cerrar aria-label="Cerrar avisos">&times;</button>
+      <h2 id="avisosTitulo" class="modal-titulo" tabindex="-1">Avisos</h2>
+      <div id="avisosContenido"></div>
+    </div>
+  </div>
+
+  <!-- data.js lo genera `node scripts/actualizar.mjs` y define window.HEIMDALLR_DATA -->
+  <script src="data.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
