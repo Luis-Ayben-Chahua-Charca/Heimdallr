@@ -1,0 +1,44 @@
+# --- Datos generados por scripts/actualizar.mjs ---
+# Se regeneran con `node scripts/actualizar.mjs`; nunca se editan a mano.
+# En la fase 2 los publica el workflow de Pages, no git.
+web/data.js
+web/data.json
+
+# --- Secretos y credenciales (fases 2 y 3) ---
+# Ningún token, clave ni cadena de conexión entra al repositorio.
+.env
+.env.*
+!.env.ejemplo
+.dev.vars
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+
+# --- Proveedor serverless (fase 3) ---
+.wrangler/
+.vercel/
+
+# --- Dependencias y salidas de herramientas ---
+node_modules/
+coverage/
+.nyc_output/
+*.log
+npm-debug.log*
+
+# --- Configuración local de Claude Code ---
+# launch.json apunta a rutas temporales de este equipo.
+.claude/launch.json
+.claude/settings.local.json
+
+# --- Editores ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- Sistema operativo ---
+Thumbs.db
+desktop.ini
+.DS_Store
