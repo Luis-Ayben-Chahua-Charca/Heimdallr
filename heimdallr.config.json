@@ -1,0 +1,24 @@
+{
+  "dueno": "Luis-Ayben-Chahua-Charca",
+  "proyecto": 3,
+  "limite": 1000,
+  "modoEstricto": false,
+  "usarBlockedByNativo": false,
+  "campos": {
+    "Status": "estado",
+    "Sprint": "columna",
+    "Modulo": "categoria",
+    "Rol": "rol",
+    "Tipo": "tipo",
+    "Prioridad": "prioridad",
+    "Estimacion (dias)": "estimacionDias"
+  },
+  "columnas": {
+    "patronPorDefecto": "^S\\d+$",
+    "tituloSinSprint": "Sin sprint"
+  },
+  "estadosExtra": {},
+  "nombresCategorias": {},
+  "zonaHoraria": "America/Lima",
+  "salida": "web"
+}
