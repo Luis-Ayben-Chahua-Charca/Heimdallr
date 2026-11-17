@@ -1,0 +1,4129 @@
+{
+ "descripcion": "Captura del tablero #3 de Luis-Ayben-Chahua-Charca. Cuerpos recortados: solo la sección «Depende de». Generada con gh (solo lectura).",
+ "capturado": "2026-11-17",
+ "hoy": "2026-11-17",
+ "dueno": "Luis-Ayben-Chahua-Charca",
+ "proyecto": 3,
+ "itemList": {
+  "items": [
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 59,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/59"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhClCCg",
+    "labels": [
+     "documentation",
+     "UI"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/60"
+    ],
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "5bc9fa36",
+     "startDate": "2026-10-15",
+     "title": "Sprint 5"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Add Mockups"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 30,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockup Inventario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/30"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg8q-ps",
+    "labels": [
+     "documentation",
+     "Design",
+     "UI"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/34"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Mockup Inventario"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 31,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockup Documentacion Tributaria",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/31"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg8q_IE",
+    "labels": [
+     "documentation",
+     "Design",
+     "UI"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/34"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Add Mockup Documentacion Tributaria"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 32,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockup Alertas de Vencimiento",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/32"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg8rA34",
+    "labels": [
+     "documentation",
+     "Design",
+     "UI"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/34"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Add Mockup Alertas de Vencimiento"
+   },
+   {
+    "assignees": [
+     "GusJTT"
+    ],
+    "content": {
+     "body": "",
+     "number": 9,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-05 Metodos de pago",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/9"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74RIw",
+    "labels": [
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/26"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-05 Metodos de pago"
+   },
+   {
+    "assignees": [
+     "OscarChilo"
+    ],
+    "content": {
+     "body": "",
+     "number": 10,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-06 Reportes de Ventas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/10"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74R0g",
+    "labels": [
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/27"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-06 Reportes de Ventas"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "content": {
+     "body": "",
+     "number": 4,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "add CONTRIBUTING.md",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/4"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74AR8",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/14"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "add CONTRIBUTING.md"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "content": {
+     "body": "",
+     "number": 5,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-01 Actor - Dueño",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/5"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74G-o",
+    "labels": [
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/17"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-01 Actor - Dueño"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "content": {
+     "body": "",
+     "number": 6,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU=02 General Actor Tecnico",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/6"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74JTQ",
+    "labels": [
+     "documentation",
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/18"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU=02 General Actor Tecnico"
+   },
+   {
+    "assignees": [
+     "Raul-Almanza"
+    ],
+    "content": {
+     "body": "",
+     "number": 7,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-03 Ventas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/7"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74P7k",
+    "labels": [
+     "documentation",
+     "Design"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-03 Ventas"
+   },
+   {
+    "assignees": [
+     "luis-fernando-chambi-orosco"
+    ],
+    "content": {
+     "body": "",
+     "number": 8,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-04 Inventario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/8"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74Q7M",
+    "labels": [
+     "documentation",
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/19"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-04 Inventario"
+   },
+   {
+    "assignees": [
+     "JhoerV"
+    ],
+    "content": {
+     "body": "",
+     "number": 11,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-07 Devoluciones",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/11"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74Ujc",
+    "labels": [
+     "Design"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/22",
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/28"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-07 Devoluciones"
+   },
+   {
+    "assignees": [
+     "JhoerV"
+    ],
+    "content": {
+     "body": "",
+     "number": 12,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add CU-08 Proveedores",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/12"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74Uq8",
+    "labels": [
+     "Design"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add CU-08 Proveedores"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "content": {
+     "body": "",
+     "number": 13,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockup - Ventas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/13"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74V4I",
+    "labels": [
+     "UI"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Add Mockup - Ventas"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "content": {
+     "body": "",
+     "number": 15,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Moddify CONTRIBUTING.md",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/15"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg74pF4",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/16"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "068e25a9",
+     "startDate": "2026-09-17",
+     "title": "Sprint 1"
+    },
+    "status": "Done",
+    "title": "Moddify CONTRIBUTING.md"
+   },
+   {
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 2,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Arquitectura generica",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/2"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg8qW4g",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/57"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Arquitectura generica"
+   },
+   {
+    "assignees": [
+     "OscarChilo"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 41,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Plaintext Case Diagram (Reportes de ventas)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/41"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9Vaqk",
+    "labels": [
+     "documentation"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Plaintext Case Diagram (Reportes de ventas)"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 33,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Mockcs de confirmacion (Reusable)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/33"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9HEVA",
+    "labels": [
+     "documentation",
+     "Design",
+     "UI"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/34"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Add Mockcs de confirmacion (Reusable)"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 36,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Plaintext Case diagram (Actores: Dueña y Tecnica)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/36"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9VYK4",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/43"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Plaintext Case diagram (Actores: Dueña y Tecnica)"
+   },
+   {
+    "assignees": [
+     "Raul-Almanza"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 37,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add plaintext case diagram (Ventas)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/37"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9VY_g",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/46"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add plaintext case diagram (Ventas)"
+   },
+   {
+    "assignees": [
+     "luis-fernando-chambi-orosco"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 39,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Plaintext Case Diagram (Inventario)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/39"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9VZ8o",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/47"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Plaintext Case Diagram (Inventario)"
+   },
+   {
+    "assignees": [
+     "GusJTT"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 40,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Plaintext Case Diagram (Metodos de pago)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/40"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9VaU8",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/45"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Plaintext Case Diagram (Metodos de pago)"
+   },
+   {
+    "assignees": [
+     "JhoerV"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 42,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Plaintext Case Diagram (Devoluciones y proveedores)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/42"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg9VbHI",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/48"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "43d8bf5d",
+     "startDate": "2026-09-24",
+     "title": "Sprint 2"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Plaintext Case Diagram (Devoluciones y proveedores)"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "content": {
+     "body": "",
+     "number": 49,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DIagramas de comportamiento",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/49"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg95faA",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/58"
+    ],
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "title": "DIagramas de comportamiento"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "content": {
+     "body": "",
+     "number": 50,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Diagramas de Vista Logica",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/50"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg95gCw",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/61"
+    ],
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "title": "Diagramas de Vista Logica"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 51,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Diagramas de Vista de procesos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/51"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg95gWk",
+    "labels": [
+     "documentation"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/62"
+    ],
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Diagramas de Vista de procesos"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 52,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Arquitectura Centrada en Interfaces de Usuario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/52"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg95iy8",
+    "labels": [
+     "documentation"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "95ae2c74",
+     "startDate": "2026-10-08",
+     "title": "Sprint 4"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Arquitectura Centrada en Interfaces de Usuario"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 54,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Arquitectura Centrada en el Flujo de Datos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/54"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg95qVI",
+    "labels": [
+     "documentation"
+    ],
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "5bc9fa36",
+     "startDate": "2026-10-15",
+     "title": "Sprint 5"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Arquitectura Centrada en el Flujo de Datos"
+   },
+   {
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 55,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Add Nuevo modulo",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/55"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4Djzg-JG18",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Add Nuevo modulo"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 63,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Corregir el diccionario de datos y el catálogo según la auditoría de la base de datos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/63"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_ff8",
+    "labels": [
+     "docs"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/146"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Corregir el diccionario de datos y el catálogo según la auditoría de la base de datos"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 64,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Configurar la integración continua, CODEOWNERS y la plantilla de PR",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/64"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_foc",
+    "labels": [
+     "chore"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/145"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Infraestructura",
+    "title": "Configurar la integración continua, CODEOWNERS y la plantilla de PR"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 65,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "VEN: documentar el cambio del módulo de ventas pedido por la dueña",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/65"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_fwg",
+    "labels": [
+     "docs",
+     "mod:VEN"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/163"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "VEN: documentar el cambio del módulo de ventas pedido por la dueña"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 66,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "USR y VEN: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/66"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_f6I",
+    "labels": [
+     "docs",
+     "mod:USR"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/164"
+    ],
+    "modulo": "USR",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "USR y VEN: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #64\r\n\r\n",
+     "number": 53,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Esqueleto de la solución .NET 10 / WPF",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/53"
+    },
+    "estimacion (dias)": 1.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_gC8",
+    "labels": [
+     "feat"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/154",
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/155"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Infraestructura",
+    "title": "Esqueleto de la solución .NET 10 / WPF"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n\r\n",
+     "number": 67,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Contratos entre módulos e implementaciones simuladas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/67"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_gKQ",
+    "labels": [
+     "feat"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/165"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Infraestructura",
+    "title": "Contratos entre módulos e implementaciones simuladas"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #70\r\n\r\n",
+     "number": 68,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "USR: consulta, alta, actualización y baja de usuarios (módulo de referencia)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/68"
+    },
+    "estimacion (dias)": 1.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_gR8",
+    "labels": [
+     "feat",
+     "mod:USR"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/179"
+    ],
+    "modulo": "USR",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Modulo",
+    "title": "USR: consulta, alta, actualización y baja de usuarios (módulo de referencia)"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n\r\n",
+     "number": 69,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Recorrido grabado del esqueleto para el equipo",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/69"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_gaM",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Recorrido grabado del esqueleto para el equipo"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 70,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Script de creación de la base de datos y recreación local",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/70"
+    },
+    "estimacion (dias)": 1.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_gkE",
+    "labels": [
+     "db"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/156"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Infraestructura",
+    "title": "Script de creación de la base de datos y recreación local"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #70\r\n\r\n",
+     "number": 71,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Datos de prueba para todos los módulos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/71"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_guA",
+    "labels": [
+     "db"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/160"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Infraestructura",
+    "title": "Datos de prueba para todos los módulos"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 72,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "INV y LOT: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/72"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_g5E",
+    "labels": [
+     "docs",
+     "mod:INV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/157"
+    ],
+    "modulo": "INV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "INV y LOT: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "Jaelhp"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #70\r\n\r\n",
+     "number": 73,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "INV: consulta de productos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/73"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_lRc",
+    "labels": [
+     "feat",
+     "mod:INV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/159"
+    ],
+    "modulo": "INV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Modulo",
+    "title": "INV: consulta de productos"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n\r\n",
+     "number": 74,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Ventana principal, menú por rol y estilos compartidos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/74"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_laE",
+    "labels": [
+     "feat"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/171"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Ventana principal, menú por rol y estilos compartidos"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n\r\n",
+     "number": 75,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Modal de confirmación genérico y controles comunes",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/75"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_lhs",
+    "labels": [
+     "feat"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/173"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Modal de confirmación genérico y controles comunes"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 76,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PAG: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/76"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_lvI",
+    "labels": [
+     "docs",
+     "mod:PAG"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/172"
+    ],
+    "modulo": "PAG",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "PAG: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #70\r\n\r\n",
+     "number": 77,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PAG: consulta de métodos de pago",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/77"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_l8g",
+    "labels": [
+     "feat",
+     "mod:PAG"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/177"
+    ],
+    "modulo": "PAG",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Modulo",
+    "title": "PAG: consulta de métodos de pago"
+   },
+   {
+    "assignees": [
+     "Raul-Almanza"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 78,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Guía de pruebas exploratorias y estructura del manual de usuario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/78"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_mG8",
+    "labels": [
+     "docs"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/175"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Guía de pruebas exploratorias y estructura del manual de usuario"
+   },
+   {
+    "assignees": [
+     "GusJTT"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #64\r\n\r\n",
+     "number": 79,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Proyecto de pruebas automatizadas y su ejecución en CI",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/79"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_mRU",
+    "labels": [
+     "test"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/166"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Prueba",
+    "title": "Proyecto de pruebas automatizadas y su ejecución en CI"
+   },
+   {
+    "assignees": [
+     "GusJTT"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #68\r\n- #79\r\n\r\n",
+     "number": 80,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "USR: pruebas automatizadas del módulo de usuarios",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/80"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_maY",
+    "labels": [
+     "test",
+     "mod:USR"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/176"
+    ],
+    "modulo": "USR",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "In Progress",
+    "tipo": "Prueba",
+    "title": "USR: pruebas automatizadas del módulo de usuarios"
+   },
+   {
+    "assignees": [
+     "OscarChilo"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 81,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PRV: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/81"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_mmk",
+    "labels": [
+     "docs",
+     "mod:PRV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/161"
+    ],
+    "modulo": "PRV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "PRV: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "OscarChilo"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #70\r\n\r\n",
+     "number": 82,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PRV: consulta de proveedores",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/82"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_m2A",
+    "labels": [
+     "feat",
+     "mod:PRV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/170"
+    ],
+    "modulo": "PRV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Modulo",
+    "title": "PRV: consulta de proveedores"
+   },
+   {
+    "assignees": [
+     "luis-fernando-chambi-orosco"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 83,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DOC: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/83"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_m9E",
+    "labels": [
+     "docs",
+     "mod:DOC"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/167"
+    ],
+    "modulo": "DOC",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "In Progress",
+    "tipo": "Documento",
+    "title": "DOC: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "luis-fernando-chambi-orosco"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n\r\n",
+     "number": 84,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Prueba de concepto de generación de PDF",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/84"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_nF4",
+    "labels": [
+     "feat",
+     "mod:DOC"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/168"
+    ],
+    "modulo": "DOC",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "In Progress",
+    "tipo": "Modulo",
+    "title": "Prueba de concepto de generación de PDF"
+   },
+   {
+    "assignees": [
+     "luis-fernando-chambi-orosco"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #71\r\n\r\n",
+     "number": 85,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DOC: consulta de comprobantes tributarios",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/85"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_nPA",
+    "labels": [
+     "feat",
+     "mod:DOC"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/169"
+    ],
+    "modulo": "DOC",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "In Progress",
+    "tipo": "Modulo",
+    "title": "DOC: consulta de comprobantes tributarios"
+   },
+   {
+    "assignees": [
+     "JhoerV"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 86,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "ALV: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/86"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_nZ8",
+    "labels": [
+     "docs",
+     "mod:ALV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/174"
+    ],
+    "modulo": "ALV",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "ALV: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "JhoerV"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #53\r\n- #71\r\n\r\n",
+     "number": 87,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "ALV: consulta de alertas de productos vencidos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/87"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_nmc",
+    "labels": [
+     "feat",
+     "mod:ALV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/181"
+    ],
+    "modulo": "ALV",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Modulo",
+    "title": "ALV: consulta de alertas de productos vencidos"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #68\r\n- #67\r\n\r\n",
+     "number": 88,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "USR: inicio de sesión y sesión del usuario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/88"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_nvI",
+    "labels": [
+     "feat",
+     "mod:USR"
+    ],
+    "modulo": "USR",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "USR: inicio de sesión y sesión del usuario"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #67\r\n- #65\r\n\r\n",
+     "number": 89,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "VEN: carrito de venta y VistaModelo contra contratos simulados",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/89"
+    },
+    "estimacion (dias)": 2.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_n2w",
+    "labels": [
+     "feat",
+     "mod:VEN"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "VEN: carrito de venta y VistaModelo contra contratos simulados"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #73\r\n\r\n",
+     "number": 90,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "INV: alta, actualización y baja de productos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/90"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_n-Q",
+    "labels": [
+     "feat",
+     "mod:INV"
+    ],
+    "modulo": "INV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "INV: alta, actualización y baja de productos"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #77\r\n\r\n",
+     "number": 91,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PAG: alta, actualización y desactivación de métodos de pago",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/91"
+    },
+    "estimacion (dias)": 1.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_oE0",
+    "labels": [
+     "feat",
+     "mod:PAG"
+    ],
+    "modulo": "PAG",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "PAG: alta, actualización y desactivación de métodos de pago"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 92,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "RES: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/92"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_oRg",
+    "labels": [
+     "docs",
+     "mod:RES"
+    ],
+    "modulo": "RES",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "RES: adecuar el catálogo a los mockups"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #78\r\n\r\n",
+     "number": 93,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas exploratorias de USR, PRV, INV y PAG",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/93"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_odY",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas exploratorias de USR, PRV, INV y PAG"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #79\r\n\r\n",
+     "number": 94,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas automatizadas de PRV, INV y PAG",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/94"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_orI",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas automatizadas de PRV, INV y PAG"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #82\r\n\r\n",
+     "number": 95,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "PRV: alta, actualización y baja de proveedores",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/95"
+    },
+    "estimacion (dias)": 2.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_oyo",
+    "labels": [
+     "feat",
+     "mod:PRV"
+    ],
+    "modulo": "PRV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "PRV: alta, actualización y baja de proveedores"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 96,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DEV: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/96"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_o7k",
+    "labels": [
+     "docs",
+     "mod:DEV"
+    ],
+    "modulo": "DEV",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "DEV: adecuar el catálogo a los mockups"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #85\r\n\r\n",
+     "number": 97,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DOC: registro de comprobante tributario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/97"
+    },
+    "estimacion (dias)": 2.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pDE",
+    "labels": [
+     "feat",
+     "mod:DOC"
+    ],
+    "modulo": "DOC",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "DOC: registro de comprobante tributario"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #87\r\n\r\n",
+     "number": 98,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "ALV: registro, modificación y eliminación de alertas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/98"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pK0",
+    "labels": [
+     "feat",
+     "mod:ALV"
+    ],
+    "modulo": "ALV",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "ALV: registro, modificación y eliminación de alertas"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #89\r\n- #101\r\n- #91\r\n- #102\r\n\r\n",
+     "number": 99,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "VEN: registro de venta con lotes, pagos y restricciones reales",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/99"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pTU",
+    "labels": [
+     "feat",
+     "mod:VEN"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "VEN: registro de venta con lotes, pagos y restricciones reales"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #89\r\n\r\n",
+     "number": 100,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "VEN: consulta de ventas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/100"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pbY",
+    "labels": [
+     "feat",
+     "mod:VEN"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "VEN: consulta de ventas"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #90\r\n\r\n",
+     "number": 101,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "LOT: consulta, alta, actualización y baja de remesas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/101"
+    },
+    "estimacion (dias)": 4,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pkE",
+    "labels": [
+     "feat",
+     "mod:LOT"
+    ],
+    "modulo": "LOT",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "LOT: consulta, alta, actualización y baja de remesas"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #92\r\n\r\n",
+     "number": 102,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "RES: consulta, alta, actualización y baja de restricciones de venta",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/102"
+    },
+    "estimacion (dias)": 2.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_pxs",
+    "labels": [
+     "feat",
+     "mod:RES"
+    ],
+    "modulo": "RES",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "RES: consulta, alta, actualización y baja de restricciones de venta"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #93\r\n\r\n",
+     "number": 103,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas exploratorias de LOT, RES, DEV, ALV y DOC",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/103"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_p4g",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas exploratorias de LOT, RES, DEV, ALV y DOC"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #94\r\n\r\n",
+     "number": 104,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas automatizadas de LOT, RES, DEV, ALV y DOC",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/104"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_qAo",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas automatizadas de LOT, RES, DEV, ALV y DOC"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #95\r\n- #101\r\n\r\n",
+     "number": 105,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DEV: registro, consulta, actualización y eliminación de órdenes de devolución",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/105"
+    },
+    "estimacion (dias)": 4,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_qJg",
+    "labels": [
+     "feat",
+     "mod:DEV"
+    ],
+    "modulo": "DEV",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "DEV: registro, consulta, actualización y eliminación de órdenes de devolución"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 106,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "COT: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/106"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_qTk",
+    "labels": [
+     "docs",
+     "mod:COT"
+    ],
+    "modulo": "COT",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "COT: adecuar el catálogo a los mockups"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #97\r\n- #84\r\n\r\n",
+     "number": 107,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "DOC: actualización, anulación y previsualización en PDF",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/107"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_qiE",
+    "labels": [
+     "feat",
+     "mod:DOC"
+    ],
+    "modulo": "DOC",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "DOC: actualización, anulación y previsualización en PDF"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 108,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "REP: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/108"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_qyc",
+    "labels": [
+     "docs",
+     "mod:REP"
+    ],
+    "modulo": "REP",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "REP: adecuar el catálogo a los mockups"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #98\r\n\r\n",
+     "number": 109,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "ALV: proceso diario de evaluación de vencimientos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/109"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_q8Y",
+    "labels": [
+     "feat",
+     "mod:ALV"
+    ],
+    "modulo": "ALV",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "ALV: proceso diario de evaluación de vencimientos"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #63\r\n\r\n",
+     "number": 110,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "REA: adecuar el catálogo a los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/110"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_rGQ",
+    "labels": [
+     "docs",
+     "mod:REA"
+    ],
+    "modulo": "REA",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "REA: adecuar el catálogo a los mockups"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #99\r\n\r\n",
+     "number": 111,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "VEN: actualización y eliminación de ventas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/111"
+    },
+    "estimacion (dias)": 2.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_rPQ",
+    "labels": [
+     "feat",
+     "mod:VEN"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "VEN: actualización y eliminación de ventas"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #99\r\n- #107\r\n\r\n",
+     "number": 112,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Integración del núcleo sin implementaciones simuladas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/112"
+    },
+    "estimacion (dias)": 1.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_rZk",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Integración del núcleo sin implementaciones simuladas"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #70\r\n\r\n",
+     "number": 113,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Script de carga de datos iniciales reales",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/113"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_ric",
+    "labels": [
+     "db"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Script de carga de datos iniciales reales"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #74\r\n\r\n",
+     "number": 114,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Consistencia visual de todas las pantallas",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/114"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_rrA",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Interfaz",
+    "title": "Consistencia visual de todas las pantallas"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #103\r\n\r\n",
+     "number": 115,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas exploratorias de VEN, REP, REA y COT",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/115"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_r2I",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas exploratorias de VEN, REP, REA y COT"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #104\r\n\r\n",
+     "number": 116,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Pruebas de integración y pruebas automatizadas de REP, REA y COT",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/116"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_sEI",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Pruebas de integración y pruebas automatizadas de REP, REA y COT"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #106\r\n- #95\r\n\r\n",
+     "number": 117,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "COT: cotizaciones, comparación de precios y CSV por proveedor",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/117"
+    },
+    "estimacion (dias)": 4,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_sMg",
+    "labels": [
+     "feat",
+     "mod:COT"
+    ],
+    "modulo": "COT",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "COT: cotizaciones, comparación de precios y CSV por proveedor"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #108\r\n- #84\r\n\r\n",
+     "number": 118,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "REP: generación, consulta, regeneración y eliminación de reportes",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/118"
+    },
+    "estimacion (dias)": 4,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_sWI",
+    "labels": [
+     "feat",
+     "mod:REP"
+    ],
+    "modulo": "REP",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "REP: generación, consulta, regeneración y eliminación de reportes"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #110\r\n- #101\r\n\r\n",
+     "number": 119,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "REA: lista de reabastecimiento y proceso cada 15 días",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/119"
+    },
+    "estimacion (dias)": 4,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_sgM",
+    "labels": [
+     "feat",
+     "mod:REA"
+    ],
+    "modulo": "REA",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Modulo",
+    "title": "REA: lista de reabastecimiento y proceso cada 15 días"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #112\r\n\r\n",
+     "number": 120,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Integración final, corrección de errores y revisión de código",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/120"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_sxk",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Integración final, corrección de errores y revisión de código"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #113\r\n\r\n",
+     "number": 121,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Carga de datos reales con la dueña y respaldo de la base",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/121"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_s74",
+    "labels": [
+     "db"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Carga de datos reales con la dueña y respaldo de la base"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #114\r\n\r\n",
+     "number": 122,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Correcciones de interfaz y apoyo al manual de usuario",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/122"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_tGQ",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Interfaz",
+    "title": "Correcciones de interfaz y apoyo al manual de usuario"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #115\r\n\r\n",
+     "number": 123,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Manual de usuario final y material de capacitación",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/123"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_tOQ",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Manual de usuario final y material de capacitación"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #116\r\n\r\n",
+     "number": 124,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Instalador autocontenido win-x64, prueba en equipo limpio y regresión completa",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/124"
+    },
+    "estimacion (dias)": 3,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_tYA",
+    "labels": [
+     "chore"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Instalador autocontenido win-x64, prueba en equipo limpio y regresión completa"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #117\r\n\r\n",
+     "number": 125,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Corrección de errores de PRV, DEV y COT",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/125"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_tg0",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Corrección de errores de PRV, DEV y COT"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #118\r\n\r\n",
+     "number": 126,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Corrección de errores de DOC y REP",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/126"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_tus",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Corrección de errores de DOC y REP"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #119\r\n\r\n",
+     "number": 127,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Corrección de errores de ALV y REA",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/127"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_t8Q",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Corrección de errores de ALV y REA"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #124\r\n- #129\r\n\r\n",
+     "number": 128,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Puesta en producción y entrega formal",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/128"
+    },
+    "estimacion (dias)": 2,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_uHU",
+    "labels": [
+     "chore"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Puesta en producción y entrega formal"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #121\r\n\r\n",
+     "number": 129,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Instalación de SQL Server y de la base en el equipo de la farmacia",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/129"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_uS8",
+    "labels": [
+     "db"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R2 Datos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Instalación de SQL Server y de la base en el equipo de la farmacia"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #123\r\n\r\n",
+     "number": 130,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Capacitación a la dueña y a la técnica",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/130"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_uas",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Capacitación a la dueña y a la técnica"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #132\r\n\r\n",
+     "number": 131,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Registro de observaciones de la prueba de aceptación",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/131"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_ulk",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R4 Pruebas exploratorias y manual",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Registro de observaciones de la prueba de aceptación"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #128\r\n\r\n",
+     "number": 132,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Prueba de aceptación con la dueña",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/132"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_uuU",
+    "labels": [
+     "test"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R8 Calidad y entrega",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Prueba",
+    "title": "Prueba de aceptación con la dueña"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #132\r\n\r\n",
+     "number": 133,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Correcciones de la prueba de aceptación (PRV, DEV, COT)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/133"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_u3A",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P3 Gestion",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R5 Proveedores",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Correcciones de la prueba de aceptación (PRV, DEV, COT)"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #132\r\n\r\n",
+     "number": 134,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Correcciones de la prueba de aceptación (DOC, REP)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/134"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_u_Y",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R6 Documentos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Correcciones de la prueba de aceptación (DOC, REP)"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\r\n\r\n- #132\r\n\r\n",
+     "number": 135,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Correcciones de la prueba de aceptación (ALV, REA)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/135"
+    },
+    "estimacion (dias)": 1,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_vGk",
+    "labels": [
+     "feat"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Infraestructura",
+    "title": "Correcciones de la prueba de aceptación (ALV, REA)"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 136,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Planificación, seguimiento y acta del sprint S1",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/136"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_vQo",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Planificación, seguimiento y acta del sprint S1"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 137,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Planificación, seguimiento y acta del sprint S2",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/137"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_vX8",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fe34557e",
+     "startDate": "2026-11-15",
+     "title": "S2"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Planificación, seguimiento y acta del sprint S2"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 138,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Planificación, seguimiento y acta del sprint S3",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/138"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_veA",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "d02e9bfc",
+     "startDate": "2026-11-22",
+     "title": "S3"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Planificación, seguimiento y acta del sprint S3"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 139,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Planificación, seguimiento y acta del sprint S4",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/139"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_vms",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "2550f7f3",
+     "startDate": "2026-11-29",
+     "title": "S4"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Planificación, seguimiento y acta del sprint S4"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 140,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Planificación, seguimiento y acta del sprint S5",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/140"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_vxE",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "7dd35f5d",
+     "startDate": "2026-12-06",
+     "title": "S5"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Planificación, seguimiento y acta del sprint S5"
+   },
+   {
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 141,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Acta de cierre del proyecto",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/141"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhG_v44",
+    "labels": [
+     "docs"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Seguimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R7 Alertas y procesos",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "f09c4e1c",
+     "startDate": "2026-12-13",
+     "title": "S6"
+    },
+    "status": "Todo",
+    "tipo": "Documento",
+    "title": "Acta de cierre del proyecto"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\n\n- Corregir el diccionario de datos y el catálogo según la auditoría de la base de datos\n\n",
+     "number": 142,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Auditar la coherencia entre los mockups y el catálogo (EDU, ILA, ESP)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/142"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhHC9-c",
+    "labels": [
+     "docs"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/148"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Auditar la coherencia entre los mockups y el catálogo (EDU, ILA, ESP)"
+   },
+   {
+    "assignees": [
+     "FrancoCalcinaFlores"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 143,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Subir las fuentes HTML de los mockups",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/143"
+    },
+    "estimacion (dias)": 0.5,
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhHDDBk",
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/144"
+    ],
+    "milestone": {
+     "description": "",
+     "dueOn": "",
+     "title": "sprint"
+    },
+    "modulo": "Transversal",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R3 Interfaz y facilitacion",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Interfaz",
+    "title": "Subir las fuentes HTML de los mockups"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Planeación",
+    "content": {
+     "body": "",
+     "number": 147,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Diagramas de Vista Fisica",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/147"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhHLe-M",
+    "labels": [
+     "Design",
+     "docs"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/149"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "P2 Cumplimiento",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "fb5cdd4b",
+     "startDate": "2026-10-01",
+     "title": "Sprint 3"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "Diagramas de Vista Fisica"
+   },
+   {
+    "content": {
+     "body": "",
+     "number": 150,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Arquitectura centrada en Datos",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/150"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhHNXCs",
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/151"
+    ],
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "95ae2c74",
+     "startDate": "2026-10-08",
+     "title": "Sprint 4"
+    },
+    "status": "Done",
+    "title": "Arquitectura centrada en Datos"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 152,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "docs: agregar el plan de implementación al repositorio",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/152"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhHZWoQ",
+    "labels": [
+     "docs"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/153"
+    ],
+    "modulo": "Transversal",
+    "prioridad": "Base Tecnica",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "docs: agregar el plan de implementación al repositorio"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "",
+     "number": 158,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "INV y LOT: completar la adecuación a los mockups (revisión del #157)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/158"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhH8w5U",
+    "labels": [
+     "docs",
+     "mod:INV"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/162"
+    ],
+    "modulo": "INV",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Documento",
+    "title": "INV y LOT: completar la adecuación a los mockups (revisión del #157)"
+   },
+   {
+    "assignees": [
+     "Luis-Ayben-Chahua-Charca"
+    ],
+    "bloque": "Implementacion",
+    "content": {
+     "body": "## Depende de\n\n- #71\n\n",
+     "number": 178,
+     "repository": "Luis-Ayben-Chahua-Charca/Farmasil_App",
+     "title": "Corregir la carga de datos de prueba con sqlcmd de ODBC (QUOTED_IDENTIFIER)",
+     "type": "Issue",
+     "url": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/issues/178"
+    },
+    "id": "PVTI_lAHOBXKRO84Bj4DjzhJT0Bo",
+    "labels": [
+     "bug",
+     "db"
+    ],
+    "linked pull requests": [
+     "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App/pull/180"
+    ],
+    "modulo": "VEN",
+    "prioridad": "P1 Nucleo",
+    "repository": "https://github.com/Luis-Ayben-Chahua-Charca/Farmasil_App",
+    "rol": "R1 Lider tecnico",
+    "sprint": {
+     "duration": 7,
+     "iterationId": "0dd168d9",
+     "startDate": "2026-11-08",
+     "title": "S1"
+    },
+    "status": "Done",
+    "tipo": "Prueba",
+    "title": "Corregir la carga de datos de prueba con sqlcmd de ODBC (QUOTED_IDENTIFIER)"
+   }
+  ],
+  "totalCount": 116
+ },
+ "fieldList": {
+  "fields": [
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhiqyhY",
+    "name": "Title",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyhc",
+    "name": "Assignees",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4Djzhiqyhg",
+    "name": "Status",
+    "options": [
+     {
+      "id": "f75ad846",
+      "name": "Todo"
+     },
+     {
+      "id": "47fc9ee4",
+      "name": "In Progress"
+     },
+     {
+      "id": "98236657",
+      "name": "Done"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyhk",
+    "name": "Labels",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyho",
+    "name": "Linked pull requests",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyhs",
+    "name": "Milestone",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyhw",
+    "name": "Repository",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyh4",
+    "name": "Reviewers",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4Djzhiqyh8",
+    "name": "Parent issue",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhiqyiA",
+    "name": "Sub-issues progress",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhiqyiE",
+    "name": "Created",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhiqyiI",
+    "name": "Updated",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhiqyiM",
+    "name": "Closed",
+    "type": "ProjectV2Field"
+   },
+   {
+    "id": "PVTIF_lAHOBXKRO84Bj4Djzhiqzxs",
+    "name": "Sprint",
+    "type": "ProjectV2IterationField"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4Djzhiq1c4",
+    "name": "Bloque",
+    "options": [
+     {
+      "id": "f091d8d0",
+      "name": "Planeación"
+     },
+     {
+      "id": "721bd3cc",
+      "name": "Implementacion"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4Djzhiq178",
+    "name": "Tipo",
+    "options": [
+     {
+      "id": "bebb0fb0",
+      "name": "Documento"
+     },
+     {
+      "id": "d2def002",
+      "name": "Modulo"
+     },
+     {
+      "id": "cdd15b5e",
+      "name": "Infraestructura"
+     },
+     {
+      "id": "7adce251",
+      "name": "Prueba"
+     },
+     {
+      "id": "52ac392a",
+      "name": "Interfaz"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4Djzhiq2K4",
+    "name": "Prioridad",
+    "options": [
+     {
+      "id": "c7af1244",
+      "name": "P1 Nucleo"
+     },
+     {
+      "id": "04f83764",
+      "name": "P2 Cumplimiento"
+     },
+     {
+      "id": "d139c7ca",
+      "name": "Base Tecnica"
+     },
+     {
+      "id": "d73404af",
+      "name": "P3 Gestion"
+     },
+     {
+      "id": "41fa6ae8",
+      "name": "Seguimiento"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4DjzhpE0UA",
+    "name": "Rol",
+    "options": [
+     {
+      "id": "c458abed",
+      "name": "R1 Lider tecnico"
+     },
+     {
+      "id": "d52a46fb",
+      "name": "R2 Datos"
+     },
+     {
+      "id": "c2c91e23",
+      "name": "R3 Interfaz y facilitacion"
+     },
+     {
+      "id": "24b2bfe8",
+      "name": "R4 Pruebas exploratorias y manual"
+     },
+     {
+      "id": "9a80089d",
+      "name": "R5 Proveedores"
+     },
+     {
+      "id": "e7546ab2",
+      "name": "R6 Documentos"
+     },
+     {
+      "id": "af4de87e",
+      "name": "R7 Alertas y procesos"
+     },
+     {
+      "id": "12f3e5ab",
+      "name": "R8 Calidad y entrega"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTSSF_lAHOBXKRO84Bj4DjzhpE0WI",
+    "name": "Modulo",
+    "options": [
+     {
+      "id": "a536eebf",
+      "name": "USR"
+     },
+     {
+      "id": "3598ee3c",
+      "name": "PRV"
+     },
+     {
+      "id": "99bd6b33",
+      "name": "INV"
+     },
+     {
+      "id": "7598c485",
+      "name": "LOT"
+     },
+     {
+      "id": "60711b07",
+      "name": "PAG"
+     },
+     {
+      "id": "2268f6d9",
+      "name": "VEN"
+     },
+     {
+      "id": "66f4464e",
+      "name": "RES"
+     },
+     {
+      "id": "e2104f19",
+      "name": "ALV"
+     },
+     {
+      "id": "de88f848",
+      "name": "DOC"
+     },
+     {
+      "id": "83afdd2f",
+      "name": "DEV"
+     },
+     {
+      "id": "6ca97a86",
+      "name": "REP"
+     },
+     {
+      "id": "83f15435",
+      "name": "REA"
+     },
+     {
+      "id": "13b2b06f",
+      "name": "COT"
+     },
+     {
+      "id": "0a3e1612",
+      "name": "Transversal"
+     }
+    ],
+    "type": "ProjectV2SingleSelectField"
+   },
+   {
+    "id": "PVTF_lAHOBXKRO84Bj4DjzhpE0Wc",
+    "name": "Estimacion (dias)",
+    "type": "ProjectV2Field"
+   }
+  ],
+  "totalCount": 20
+ },
+ "proyectoGraphql": {
+  "data": {
+   "repositoryOwner": {
+    "projectV2": {
+     "title": "Farmasil Scrum for Planning and Deployment",
+     "url": "https://github.com/users/Luis-Ayben-Chahua-Charca/projects/3",
+     "fields": {
+      "nodes": [
+       {
+        "name": "Sprint",
+        "configuration": {
+         "iterations": [
+          {
+           "id": "fe34557e",
+           "title": "S2",
+           "startDate": "2026-11-15",
+           "duration": 7
+          },
+          {
+           "id": "d02e9bfc",
+           "title": "S3",
+           "startDate": "2026-11-22",
+           "duration": 7
+          },
+          {
+           "id": "2550f7f3",
+           "title": "S4",
+           "startDate": "2026-11-29",
+           "duration": 7
+          },
+          {
+           "id": "7dd35f5d",
+           "title": "S5",
+           "startDate": "2026-12-06",
+           "duration": 7
+          },
+          {
+           "id": "f09c4e1c",
+           "title": "S6",
+           "startDate": "2026-12-13",
+           "duration": 7
+          }
+         ],
+         "completedIterations": [
+          {
+           "id": "0dd168d9",
+           "title": "S1",
+           "startDate": "2026-11-08",
+           "duration": 7
+          },
+          {
+           "id": "5bc9fa36",
+           "title": "Sprint 5",
+           "startDate": "2026-10-15",
+           "duration": 7
+          },
+          {
+           "id": "95ae2c74",
+           "title": "Sprint 4",
+           "startDate": "2026-10-08",
+           "duration": 7
+          },
+          {
+           "id": "fb5cdd4b",
+           "title": "Sprint 3",
+           "startDate": "2026-10-01",
+           "duration": 7
+          },
+          {
+           "id": "43d8bf5d",
+           "title": "Sprint 2",
+           "startDate": "2026-09-24",
+           "duration": 7
+          },
+          {
+           "id": "068e25a9",
+           "title": "Sprint 1",
+           "startDate": "2026-09-17",
+           "duration": 7
+          }
+         ]
+        }
+       }
+      ]
+     }
+    }
+   }
+  }
+ },
+ "issuesExternos": {}
+}
